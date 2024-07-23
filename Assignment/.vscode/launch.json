@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Rev",
+            "request": "launch",
+            "mainClass": "Rev",
+            "projectName": "Assignment_4dfb7c08"
+        },
+        {
+            "type": "java",
+            "name": "WordCounter",
+            "request": "launch",
+            "mainClass": "WordCounter",
+            "projectName": "Assignment_4dfb7c08"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Baap",
+            "request": "launch",
+            "mainClass": "Baap",
+            "projectName": "Assignment_4dfb7c08"
+        },
+        {
+            "type": "java",
+            "name": "Even",
+            "request": "launch",
+            "mainClass": "Even",
+            "projectName": "Assignment_4dfb7c08"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "Assignment_4dfb7c08"
+        },
+        {
+            "type": "java",
+            "name": "Star",
+            "request": "launch",
+            "mainClass": "Star",
+            "projectName": "Assignment_4dfb7c08"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "Assignment_4dfb7c08"
+        }
+    ]
+}
